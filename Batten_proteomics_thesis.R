@@ -1,5 +1,4 @@
 
-#https://ab604.github.io/docs/bspr_workshop_2018/index.html#requirements####
 #1. general volcano for W2####
 
 library(magrittr)
