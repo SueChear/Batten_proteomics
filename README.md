@@ -1,0 +1,1 @@
+Proteomics analysis for results  presented in this paper: Chear S, Perry S, Wilson R, Bindoff A, Talbot J, Ware T, Grubman A, Vickers JC, Pébay A, Ruddle JB, King AE, Hewitt AW, Cook AL (2022). Lysosomal alterations and decreased electrophysiological activity in CLN3 disease (966 bp deletion, E295K) patient-derived cortical neurons. Disease Models & Mechanisms 15: dmm049651
